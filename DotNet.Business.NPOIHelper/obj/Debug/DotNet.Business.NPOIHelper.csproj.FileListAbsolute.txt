@@ -1,0 +1,6 @@
+D:\工作\DotNet.Business\DotNet.Business.NPOIHelper\bin\Debug\DotNet.Business.NPOIHelper.dll
+D:\工作\DotNet.Business\DotNet.Business.NPOIHelper\bin\Debug\DotNet.Business.NPOIHelper.pdb
+D:\工作\DotNet.Business\DotNet.Business.NPOIHelper\bin\Debug\NPOI.dll
+D:\工作\DotNet.Business\DotNet.Business.NPOIHelper\obj\Debug\DotNet.Business.NPOIHelper.dll
+D:\工作\DotNet.Business\DotNet.Business.NPOIHelper\obj\Debug\DotNet.Business.NPOIHelper.pdb
+D:\工作\DotNet.Business\DotNet.Business.NPOIHelper\obj\Debug\DotNet.Business.NPOIHelper.csprojResolveAssemblyReference.cache

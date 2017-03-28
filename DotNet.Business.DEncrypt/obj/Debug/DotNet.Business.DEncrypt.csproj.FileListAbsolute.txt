@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.DEncrypt\bin\Debug\DotNet.Business.DEncrypt.dll
+D:\工作\DotNet.Business\DotNet.Business.DEncrypt\bin\Debug\DotNet.Business.DEncrypt.pdb
+D:\工作\DotNet.Business\DotNet.Business.DEncrypt\obj\Debug\DotNet.Business.DEncrypt.dll
+D:\工作\DotNet.Business\DotNet.Business.DEncrypt\obj\Debug\DotNet.Business.DEncrypt.pdb

@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Assist\bin\Debug\DotNet.Business.Assist.dll
+D:\工作\DotNet.Business\DotNet.Business.Assist\bin\Debug\DotNet.Business.Assist.pdb
+D:\工作\DotNet.Business\DotNet.Business.Assist\obj\Debug\DotNet.Business.Assist.dll
+D:\工作\DotNet.Business\DotNet.Business.Assist\obj\Debug\DotNet.Business.Assist.pdb

@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.URL\bin\Debug\DotNet.Business.URL.dll
+D:\工作\DotNet.Business\DotNet.Business.URL\bin\Debug\DotNet.Business.URL.pdb
+D:\工作\DotNet.Business\DotNet.Business.URL\obj\Debug\DotNet.Business.URL.dll
+D:\工作\DotNet.Business\DotNet.Business.URL\obj\Debug\DotNet.Business.URL.pdb

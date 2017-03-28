@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Cookie\bin\Debug\DotNet.Business.Cookie.dll
+D:\工作\DotNet.Business\DotNet.Business.Cookie\bin\Debug\DotNet.Business.Cookie.pdb
+D:\工作\DotNet.Business\DotNet.Business.Cookie\obj\Debug\DotNet.Business.Cookie.dll
+D:\工作\DotNet.Business\DotNet.Business.Cookie\obj\Debug\DotNet.Business.Cookie.pdb

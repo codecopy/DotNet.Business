@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Session\bin\Debug\DotNet.Business.Session.dll
+D:\工作\DotNet.Business\DotNet.Business.Session\bin\Debug\DotNet.Business.Session.pdb
+D:\工作\DotNet.Business\DotNet.Business.Session\obj\Debug\DotNet.Business.Session.dll
+D:\工作\DotNet.Business\DotNet.Business.Session\obj\Debug\DotNet.Business.Session.pdb

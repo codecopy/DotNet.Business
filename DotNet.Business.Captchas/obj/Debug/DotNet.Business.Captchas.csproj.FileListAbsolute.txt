@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Captchas\bin\Debug\DotNet.Business.Captchas.dll
+D:\工作\DotNet.Business\DotNet.Business.Captchas\bin\Debug\DotNet.Business.Captchas.pdb
+D:\工作\DotNet.Business\DotNet.Business.Captchas\obj\Debug\DotNet.Business.Captchas.dll
+D:\工作\DotNet.Business\DotNet.Business.Captchas\obj\Debug\DotNet.Business.Captchas.pdb

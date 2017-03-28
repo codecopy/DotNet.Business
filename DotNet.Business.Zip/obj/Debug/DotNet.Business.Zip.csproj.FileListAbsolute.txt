@@ -1,0 +1,6 @@
+D:\工作\DotNet.Business\DotNet.Business.Zip\bin\Debug\DotNet.Business.Zip.dll
+D:\工作\DotNet.Business\DotNet.Business.Zip\bin\Debug\DotNet.Business.Zip.pdb
+D:\工作\DotNet.Business\DotNet.Business.Zip\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\DotNet.Business\DotNet.Business.Zip\obj\Debug\DotNet.Business.Zip.dll
+D:\工作\DotNet.Business\DotNet.Business.Zip\obj\Debug\DotNet.Business.Zip.pdb
+D:\工作\DotNet.Business\DotNet.Business.Zip\obj\Debug\DotNet.Business.Zip.csprojResolveAssemblyReference.cache

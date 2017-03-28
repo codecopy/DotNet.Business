@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Character\bin\Debug\DotNet.Business.Character.dll
+D:\工作\DotNet.Business\DotNet.Business.Character\bin\Debug\DotNet.Business.Character.pdb
+D:\工作\DotNet.Business\DotNet.Business.Character\obj\Debug\DotNet.Business.Character.dll
+D:\工作\DotNet.Business\DotNet.Business.Character\obj\Debug\DotNet.Business.Character.pdb

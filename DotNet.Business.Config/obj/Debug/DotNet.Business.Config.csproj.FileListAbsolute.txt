@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Config\bin\Debug\DotNet.Business.Config.dll
+D:\工作\DotNet.Business\DotNet.Business.Config\bin\Debug\DotNet.Business.Config.pdb
+D:\工作\DotNet.Business\DotNet.Business.Config\obj\Debug\DotNet.Business.Config.dll
+D:\工作\DotNet.Business\DotNet.Business.Config\obj\Debug\DotNet.Business.Config.pdb

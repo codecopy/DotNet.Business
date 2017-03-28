@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.String\bin\Debug\DotNet.Business.String.dll
+D:\工作\DotNet.Business\DotNet.Business.String\bin\Debug\DotNet.Business.String.pdb
+D:\工作\DotNet.Business\DotNet.Business.String\obj\Debug\DotNet.Business.String.dll
+D:\工作\DotNet.Business\DotNet.Business.String\obj\Debug\DotNet.Business.String.pdb

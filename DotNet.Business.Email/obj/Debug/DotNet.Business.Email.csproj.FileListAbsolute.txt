@@ -1,0 +1,5 @@
+D:\工作\DotNet.Business\DotNet.Business.Email\bin\Debug\DotNet.Business.Email.dll
+D:\工作\DotNet.Business\DotNet.Business.Email\bin\Debug\DotNet.Business.Email.pdb
+D:\工作\DotNet.Business\DotNet.Business.Email\obj\Debug\DotNet.Business.Email.dll
+D:\工作\DotNet.Business\DotNet.Business.Email\obj\Debug\DotNet.Business.Email.pdb
+D:\工作\DotNet.Business\DotNet.Business.Email\obj\Debug\DotNet.Business.Email.csprojResolveAssemblyReference.cache

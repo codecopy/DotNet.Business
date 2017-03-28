@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Random\bin\Debug\DotNet.Business.Random.dll
+D:\工作\DotNet.Business\DotNet.Business.Random\bin\Debug\DotNet.Business.Random.pdb
+D:\工作\DotNet.Business\DotNet.Business.Random\obj\Debug\DotNet.Business.Random.dll
+D:\工作\DotNet.Business\DotNet.Business.Random\obj\Debug\DotNet.Business.Random.pdb

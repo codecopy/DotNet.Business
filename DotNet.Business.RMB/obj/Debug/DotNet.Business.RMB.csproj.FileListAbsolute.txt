@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.RMB\bin\Debug\DotNet.Business.RMB.dll
+D:\工作\DotNet.Business\DotNet.Business.RMB\bin\Debug\DotNet.Business.RMB.pdb
+D:\工作\DotNet.Business\DotNet.Business.RMB\obj\Debug\DotNet.Business.RMB.dll
+D:\工作\DotNet.Business\DotNet.Business.RMB\obj\Debug\DotNet.Business.RMB.pdb

@@ -1,0 +1,6 @@
+D:\工作\DotNet.Business\DotNet.Business.PDF\bin\Debug\DotNet.Business.PDF.dll
+D:\工作\DotNet.Business\DotNet.Business.PDF\bin\Debug\DotNet.Business.PDF.pdb
+D:\工作\DotNet.Business\DotNet.Business.PDF\bin\Debug\itextsharp.dll
+D:\工作\DotNet.Business\DotNet.Business.PDF\obj\Debug\DotNet.Business.PDF.dll
+D:\工作\DotNet.Business\DotNet.Business.PDF\obj\Debug\DotNet.Business.PDF.pdb
+D:\工作\DotNet.Business\DotNet.Business.PDF\obj\Debug\DotNet.Business.PDF.csprojResolveAssemblyReference.cache

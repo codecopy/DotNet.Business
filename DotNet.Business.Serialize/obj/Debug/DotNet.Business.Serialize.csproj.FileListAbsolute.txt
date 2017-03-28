@@ -1,0 +1,5 @@
+D:\工作\DotNet.Business\DotNet.Business.Serialize\bin\Debug\DotNet.Business.Serialize.dll
+D:\工作\DotNet.Business\DotNet.Business.Serialize\bin\Debug\DotNet.Business.Serialize.pdb
+D:\工作\DotNet.Business\DotNet.Business.Serialize\obj\Debug\DotNet.Business.Serialize.dll
+D:\工作\DotNet.Business\DotNet.Business.Serialize\obj\Debug\DotNet.Business.Serialize.pdb
+D:\工作\DotNet.Business\DotNet.Business.Serialize\obj\Debug\DotNet.Business.Serialize.csprojResolveAssemblyReference.cache

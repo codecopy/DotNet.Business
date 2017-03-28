@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.FTP\bin\Debug\DotNet.Business.FTP.dll
+D:\工作\DotNet.Business\DotNet.Business.FTP\bin\Debug\DotNet.Business.FTP.pdb
+D:\工作\DotNet.Business\DotNet.Business.FTP\obj\Debug\DotNet.Business.FTP.dll
+D:\工作\DotNet.Business\DotNet.Business.FTP\obj\Debug\DotNet.Business.FTP.pdb

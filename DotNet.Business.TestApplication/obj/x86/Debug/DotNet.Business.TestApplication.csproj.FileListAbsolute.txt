@@ -1,0 +1,15 @@
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.TestApplication.exe
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.TestApplication.pdb
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\obj\x86\Debug\DotNet.Business.TestApplication.exe
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\obj\x86\Debug\DotNet.Business.TestApplication.pdb
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.TestApplication.exe.config
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.Email.dll
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.Email.pdb
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\obj\x86\Debug\DotNet.Business.TestApplication.csprojResolveAssemblyReference.cache
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.XML.dll
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.XML.pdb
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.URL.dll
+D:\工作\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.URL.pdb
+F:\DotNet.Business\DotNet.Business.TestApplication\bin\Debug\DotNet.Business.TestApplication.exe.config
+F:\DotNet.Business\DotNet.Business.TestApplication\obj\x86\Debug\DotNet.Business.TestApplication.exe
+F:\DotNet.Business\DotNet.Business.TestApplication\obj\x86\Debug\DotNet.Business.TestApplication.pdb

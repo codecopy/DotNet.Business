@@ -1,0 +1,5 @@
+D:\工作\DotNet.Business\DotNet.Business.XML\bin\Debug\DotNet.Business.XML.dll
+D:\工作\DotNet.Business\DotNet.Business.XML\bin\Debug\DotNet.Business.XML.pdb
+D:\工作\DotNet.Business\DotNet.Business.XML\obj\Debug\DotNet.Business.XML.dll
+D:\工作\DotNet.Business\DotNet.Business.XML\obj\Debug\DotNet.Business.XML.pdb
+D:\工作\DotNet.Business\DotNet.Business.XML\obj\Debug\DotNet.Business.XML.csprojResolveAssemblyReference.cache

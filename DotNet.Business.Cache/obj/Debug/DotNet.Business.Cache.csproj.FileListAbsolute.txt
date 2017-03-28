@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Cache\bin\Debug\DotNet.Business.Cache.dll
+D:\工作\DotNet.Business\DotNet.Business.Cache\bin\Debug\DotNet.Business.Cache.pdb
+D:\工作\DotNet.Business\DotNet.Business.Cache\obj\Debug\DotNet.Business.Cache.dll
+D:\工作\DotNet.Business\DotNet.Business.Cache\obj\Debug\DotNet.Business.Cache.pdb

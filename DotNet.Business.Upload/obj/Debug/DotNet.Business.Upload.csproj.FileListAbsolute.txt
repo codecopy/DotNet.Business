@@ -1,0 +1,8 @@
+D:\工作\DotNet.Business\DotNet.Business.UploadAndDownload\bin\Debug\DotNet.Business.Upload.dll
+D:\工作\DotNet.Business\DotNet.Business.UploadAndDownload\bin\Debug\DotNet.Business.Upload.pdb
+D:\工作\DotNet.Business\DotNet.Business.UploadAndDownload\obj\Debug\DotNet.Business.Upload.dll
+D:\工作\DotNet.Business\DotNet.Business.UploadAndDownload\obj\Debug\DotNet.Business.Upload.pdb
+D:\工作\DotNet.Business\DotNet.Business.Upload\bin\Debug\DotNet.Business.Upload.dll
+D:\工作\DotNet.Business\DotNet.Business.Upload\bin\Debug\DotNet.Business.Upload.pdb
+D:\工作\DotNet.Business\DotNet.Business.Upload\obj\Debug\DotNet.Business.Upload.dll
+D:\工作\DotNet.Business\DotNet.Business.Upload\obj\Debug\DotNet.Business.Upload.pdb

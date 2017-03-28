@@ -1,0 +1,5 @@
+D:\工作\DotNet.Business\DotNet.Business.Image\bin\Debug\DotNet.Business.Image.dll
+D:\工作\DotNet.Business\DotNet.Business.Image\bin\Debug\DotNet.Business.Image.pdb
+D:\工作\DotNet.Business\DotNet.Business.Image\obj\Debug\DotNet.Business.Image.dll
+D:\工作\DotNet.Business\DotNet.Business.Image\obj\Debug\DotNet.Business.Image.pdb
+D:\工作\DotNet.Business\DotNet.Business.Image\obj\Debug\DotNet.Business.Image.csprojResolveAssemblyReference.cache

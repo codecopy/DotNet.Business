@@ -1,0 +1,4 @@
+D:\工作\DotNet.Business\DotNet.Business.Download\bin\Debug\DotNet.Business.Download.dll
+D:\工作\DotNet.Business\DotNet.Business.Download\bin\Debug\DotNet.Business.Download.pdb
+D:\工作\DotNet.Business\DotNet.Business.Download\obj\Debug\DotNet.Business.Download.dll
+D:\工作\DotNet.Business\DotNet.Business.Download\obj\Debug\DotNet.Business.Download.pdb
